@@ -1,10 +1,10 @@
 # image-map
 
-## Example
+### Example
 
 ![little elephants](screenshot.png)
 
-## References
+### References
 
 - [https://projects.davidlynch.org/maphilight/docs/](https://projects.davidlynch.org/maphilight/docs/)
 
